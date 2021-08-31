@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MeMmGameReact/static/css/main.86eabcc6.chunk.css",
+    "main.js": "/MeMmGameReact/static/js/main.0674674b.chunk.js",
+    "main.js.map": "/MeMmGameReact/static/js/main.0674674b.chunk.js.map",
+    "runtime-main.js": "/MeMmGameReact/static/js/runtime-main.4fa0efcd.js",
+    "runtime-main.js.map": "/MeMmGameReact/static/js/runtime-main.4fa0efcd.js.map",
+    "static/js/2.5daf3b0e.chunk.js": "/MeMmGameReact/static/js/2.5daf3b0e.chunk.js",
+    "static/js/2.5daf3b0e.chunk.js.map": "/MeMmGameReact/static/js/2.5daf3b0e.chunk.js.map",
+    "index.html": "/MeMmGameReact/index.html",
+    "static/css/main.86eabcc6.chunk.css.map": "/MeMmGameReact/static/css/main.86eabcc6.chunk.css.map",
+    "static/js/2.5daf3b0e.chunk.js.LICENSE.txt": "/MeMmGameReact/static/js/2.5daf3b0e.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/MeMmGameReact/static/media/sass.8ec16938.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fa0efcd.js",
+    "static/js/2.5daf3b0e.chunk.js",
+    "static/css/main.86eabcc6.chunk.css",
+    "static/js/main.0674674b.chunk.js"
+  ]
+}
